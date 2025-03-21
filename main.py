@@ -3,7 +3,7 @@ import BudgetManager
 
 #data = { "balance": 500, "transactions": [ {"type": "income", "amount": 1000, "description": "Salary"}, {"type": "expense", "amount": 500, "description": "Groceries"} ] }
 
-data = {}
+data = { "balance": 0, "transactions": []}
 
 while True:
     print("Budget Manager\n1. Add Income\n2. Add Expense\n3. Show Balance\n4. Show Transaction History\n5. Exit")
