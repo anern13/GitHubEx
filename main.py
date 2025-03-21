@@ -1,7 +1,10 @@
 import BudgetManager
 
 
-#data = { "balance": 500, "transactions": [ {"type": "income", "amount": 1000, "description": "Salary"}, {"type": "expense", "amount": 500, "description": "Groceries"} ] }
+#data = { "balance": 500,
+#         "transactions":
+#         [ {"type": "income", "amount": 1000, "description": "Salary"},
+#           {"type": "expense", "amount": 500, "description": "Groceries"} ] }
 
 data = { "balance": 0, "transactions": []}
 
